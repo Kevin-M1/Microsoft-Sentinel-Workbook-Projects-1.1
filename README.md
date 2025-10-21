@@ -7,12 +7,14 @@ This repo documents exactly what I did:
 
 ## Screenshots
 - **Workbook world map**
-  <!-- replace with your image link or repo path -->
-  <img width="1861" height="890" alt="failures-map" src="images/entra-workbook-fail-map.png" />
+  <!-<img width="1934" height="1056" alt="image" src="https://github.com/user-attachments/assets/06ae6ac3-a482-4887-a4da-af48fe1163df" />
+
+  
 
 - **KQL results table**
-  <!-- replace with your image link or repo path -->
-  <img width="2134" height="1131" alt="failures-table" src="images/kql-fail-table.png" />
+  <img width="1963" height="1053" alt="image" src="https://github.com/user-attachments/assets/b297a0fb-6cc5-4f31-b534-51bb5e33efa4" />
+
+  
 
 ## Environment
 - **Platform**: Microsoft Sentinel (Azure)
